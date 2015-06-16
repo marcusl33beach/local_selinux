@@ -1,0 +1,7 @@
+name             'local_selinux'
+maintainer       'Marcus Beach'
+maintainer_email 'mrbeach.marcus@gmail.com'
+description      'Configures selinux'
+version          '0.1.0'
+supports 'centos'
+depends 'selinux'
